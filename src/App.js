@@ -8,7 +8,7 @@ const App = () => {
 
   return (
     <div>
-      <p>Sairaan nopee FG Dubs counter</p>
+      <h1>Sairaan nopee FG Dubs counter</h1>
       <button onClick={increase}>Increase </button>
       <button onClick={decrease}>Decrease </button>
       <button onClick={reset}>Reset</button>
